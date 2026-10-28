@@ -1,1 +1,5 @@
-1
+板子全景照片 ➔ 檔名存為 board.jpg
+終端機截圖（含有 [URGENT] 與 [DELIVERY] 訊息） ➔ 檔名存為 terminal.png
+黃燈亮起的瞬間照片 ➔ 檔名存為 led_yellow.jpg
+
+上傳方式：點進 GitHub 的 docs 資料夾 ➔ Add file $\rightarrow$ Upload files 拖放這 3 張圖進去並按下 Commit changes 即可完成！
