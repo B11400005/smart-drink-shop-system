@@ -55,7 +55,7 @@
 ![終端機印出訊息](docs/serial_terminal.png)
 *圖說：Serial Terminal 接收到 [URGENT] 奧客急單與 [DELIVERY] 外送平台訂單之回傳訊息截圖*
 
-![黃燈閃爍瞬間](docs/led_yellow.jpg)
+![黃燈閃爍瞬間](docs/led_yelloww.jpg)
 *圖說：按下 PA10 按鈕觸發 EXTI 時，黃燈 (PC8) 閃爍進行急單警示*
 
 ## 9. AI 使用說明：哪段請 AI、您怎麼查核
