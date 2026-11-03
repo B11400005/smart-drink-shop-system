@@ -52,7 +52,7 @@
 ![板子全景](docs/board.jpg)
 *圖說：開發板全景接線照，包含 PC6/PC8/PC9 LED 與 PA10 EXTI 按鈕*
 
-![終端機印出訊息](docs/terminal.png)
+![終端機印出訊息](docs/serial_terminal.png)
 *圖說：Serial Terminal 接收到 [URGENT] 奧客急單與 [DELIVERY] 外送平台訂單之回傳訊息截圖*
 
 ![黃燈閃爍瞬間](docs/led_yellow.jpg)
